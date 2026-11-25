@@ -1,0 +1,6 @@
+{
+  "name": "Jadval Ilovasi",
+  "description": "Dasturchi AI tomonidan yaratilgan Kotlin Jetpack Compose loyihasi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
